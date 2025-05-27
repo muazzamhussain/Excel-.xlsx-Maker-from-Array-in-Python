@@ -1,13 +1,9 @@
-Here’s a clean and clear `README.md` for your **PrestaShop Product Display Test Cases Automation** project:
-
----
-
 ````markdown
-# 🧪 PrestaShop Product Display Page – Test Case Excel Generator
+ 🧪 PrestaShop Product Display Page – Test Case Excel Generator
 
 This Python script creates a structured Excel file containing formal test cases for the **Product Display Page (PDP)** of a PrestaShop-based e-commerce website.
 
-## 📄 Features
+ 📄 Features
 
 - Generates an Excel file (`.xlsx`) with detailed test cases.
 - Follows a formal QA testing format with fields like:
@@ -23,14 +19,13 @@ This Python script creates a structured Excel file containing formal test cases 
   - Result
   - Comments
 
-## 📦 Requirements
+ 📦 Requirements
 
 - Python 3.x
 - `openpyxl` package
 
 To install dependencies:
 
-```bash
 pip install openpyxl
 ````
 
@@ -68,11 +63,4 @@ An Excel sheet will be created with rows like:
 
 ### 📬 Contact
 
-For improvements or issues, feel free to open a pull request or contact the project maintainer.
-
-```
-
----
-
-Let me know if you'd like a **GitHub-style README with emojis**, or want to add sections like _Contributing_, _License_, etc.
-```
+For improvements or issues, feel free to open a pull request or contact.
